@@ -8,7 +8,7 @@ Created on Mon Sep 18 20:55:41 2017
 
 import numpy as np
 
-COLOR_DEPTH=256.0
+COLOR_DEPTH=255.0
 
 z=[]
 eps = 2.0 * 16.0 / COLOR_DEPTH
